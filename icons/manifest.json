@@ -1,0 +1,314 @@
+{
+	"morphs": [
+		{
+			"category": "recessive",
+			"file": "monsoon.png",
+			"genes": {
+				"Monsoon": 2
+			},
+			"itemdefid": 1001,
+			"name": "Monsoon",
+			"price": 1200,
+			"slug": "monsoon"
+		},
+		{
+			"category": "recessive",
+			"file": "sunset.png",
+			"genes": {
+				"Sunset": 2
+			},
+			"itemdefid": 1002,
+			"name": "Sunset",
+			"price": 750,
+			"slug": "sunset"
+		},
+		{
+			"category": "recessive",
+			"file": "puzzle.png",
+			"genes": {
+				"Puzzle": 2
+			},
+			"itemdefid": 1003,
+			"name": "Puzzle",
+			"price": 400,
+			"slug": "puzzle"
+		},
+		{
+			"category": "recessive",
+			"file": "vpi_axanthic.png",
+			"genes": {
+				"VPI Axanthic": 2
+			},
+			"itemdefid": 1004,
+			"name": "VPI Axanthic",
+			"price": 350,
+			"slug": "vpi_axanthic"
+		},
+		{
+			"category": "recessive",
+			"file": "ultramel.png",
+			"genes": {
+				"Ultramel": 2
+			},
+			"itemdefid": 1005,
+			"name": "Ultramel",
+			"price": 325,
+			"slug": "ultramel"
+		},
+		{
+			"category": "recessive",
+			"file": "desert_ghost.png",
+			"genes": {
+				"Desert Ghost": 2
+			},
+			"itemdefid": 1006,
+			"name": "Desert Ghost",
+			"price": 300,
+			"slug": "desert_ghost"
+		},
+		{
+			"category": "recessive",
+			"file": "lavender_albino.png",
+			"genes": {
+				"Lavender Albino": 2
+			},
+			"itemdefid": 1007,
+			"name": "Lavender Albino",
+			"price": 275,
+			"slug": "lavender_albino"
+		},
+		{
+			"category": "recessive",
+			"file": "piebald.png",
+			"genes": {
+				"Piebald": 2
+			},
+			"itemdefid": 1008,
+			"name": "Piebald",
+			"price": 275,
+			"slug": "piebald"
+		},
+		{
+			"category": "recessive",
+			"file": "ghost.png",
+			"genes": {
+				"Ghost": 2
+			},
+			"itemdefid": 1009,
+			"name": "Ghost",
+			"price": 250,
+			"slug": "ghost"
+		},
+		{
+			"category": "recessive",
+			"file": "clown.png",
+			"genes": {
+				"Clown": 2
+			},
+			"itemdefid": 1010,
+			"name": "Clown",
+			"price": 250,
+			"slug": "clown"
+		},
+		{
+			"category": "recessive",
+			"file": "albino.png",
+			"genes": {
+				"Albino": 2
+			},
+			"itemdefid": 1011,
+			"name": "Albino",
+			"price": 150,
+			"slug": "albino"
+		},
+		{
+			"category": "incdom",
+			"file": "cinnamon.png",
+			"genes": {
+				"Cinnamon": 1
+			},
+			"itemdefid": 1012,
+			"name": "Cinnamon",
+			"price": 300,
+			"slug": "cinnamon"
+		},
+		{
+			"category": "incdom",
+			"file": "spider.png",
+			"genes": {
+				"Spider": 1
+			},
+			"itemdefid": 1013,
+			"name": "Spider",
+			"price": 300,
+			"slug": "spider"
+		},
+		{
+			"category": "incdom",
+			"file": "leopard.png",
+			"genes": {
+				"Leopard": 1
+			},
+			"itemdefid": 1014,
+			"name": "Leopard",
+			"price": 250,
+			"slug": "leopard"
+		},
+		{
+			"category": "incdom",
+			"file": "ghi.png",
+			"genes": {
+				"GHI": 1
+			},
+			"itemdefid": 1015,
+			"name": "GHI",
+			"price": 250,
+			"slug": "ghi"
+		},
+		{
+			"category": "incdom",
+			"file": "spotnose.png",
+			"genes": {
+				"Spotnose": 1
+			},
+			"itemdefid": 1016,
+			"name": "Spotnose",
+			"price": 200,
+			"slug": "spotnose"
+		},
+		{
+			"category": "incdom",
+			"file": "enchi.png",
+			"genes": {
+				"Enchi": 1
+			},
+			"itemdefid": 1017,
+			"name": "Enchi",
+			"price": 200,
+			"slug": "enchi"
+		},
+		{
+			"category": "incdom",
+			"file": "fire.png",
+			"genes": {
+				"Fire": 1
+			},
+			"itemdefid": 1018,
+			"name": "Fire",
+			"price": 200,
+			"slug": "fire"
+		},
+		{
+			"category": "incdom",
+			"file": "lesser.png",
+			"genes": {
+				"Lesser": 1
+			},
+			"itemdefid": 1019,
+			"name": "Lesser",
+			"price": 200,
+			"slug": "lesser"
+		},
+		{
+			"category": "incdom",
+			"file": "pinstripe.png",
+			"genes": {
+				"Pinstripe": 1
+			},
+			"itemdefid": 1020,
+			"name": "Pinstripe",
+			"price": 180,
+			"slug": "pinstripe"
+		},
+		{
+			"category": "incdom",
+			"file": "banana.png",
+			"genes": {
+				"Banana": 1
+			},
+			"itemdefid": 1021,
+			"name": "Banana",
+			"price": 180,
+			"slug": "banana"
+		},
+		{
+			"category": "incdom",
+			"file": "mojave.png",
+			"genes": {
+				"Mojave": 1
+			},
+			"itemdefid": 1022,
+			"name": "Mojave",
+			"price": 175,
+			"slug": "mojave"
+		},
+		{
+			"category": "incdom",
+			"file": "yellow_belly.png",
+			"genes": {
+				"Yellow Belly": 1
+			},
+			"itemdefid": 1023,
+			"name": "Yellow Belly",
+			"price": 100,
+			"slug": "yellow_belly"
+		},
+		{
+			"category": "incdom",
+			"file": "pastel.png",
+			"genes": {
+				"Pastel": 1
+			},
+			"itemdefid": 1024,
+			"name": "Pastel",
+			"price": 100,
+			"slug": "pastel"
+		},
+		{
+			"category": "combo",
+			"file": "pastel_ultramel_monsoon.png",
+			"genes": {
+				"Monsoon": 2,
+				"Pastel": 1,
+				"Ultramel": 2
+			},
+			"itemdefid": 1025,
+			"name": "Pastel Ultramel Monsoon",
+			"price": 1625,
+			"slug": "pastel_ultramel_monsoon"
+		},
+		{
+			"category": "combo",
+			"file": "sunset_ultramel.png",
+			"genes": {
+				"Sunset": 2,
+				"Ultramel": 2
+			},
+			"itemdefid": 1026,
+			"name": "Sunset Ultramel",
+			"price": 1075,
+			"slug": "sunset_ultramel"
+		},
+		{
+			"category": "combo",
+			"file": "pastel_vpi_axanthic.png",
+			"genes": {
+				"Pastel": 1,
+				"VPI Axanthic": 2
+			},
+			"itemdefid": 1027,
+			"name": "Pastel VPI Axanthic",
+			"price": 450,
+			"slug": "pastel_vpi_axanthic"
+		},
+		{
+			"category": "normal",
+			"file": "normal.png",
+			"genes": {},
+			"itemdefid": 1028,
+			"name": "Normal",
+			"price": 75,
+			"slug": "normal"
+		}
+	]
+}
