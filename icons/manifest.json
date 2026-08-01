@@ -8,7 +8,7 @@
 			},
 			"itemdefid": 1001,
 			"name": "Monsoon",
-			"price": 1200,
+			"price": 7500,
 			"slug": "monsoon"
 		},
 		{
@@ -19,7 +19,7 @@
 			},
 			"itemdefid": 1002,
 			"name": "Sunset",
-			"price": 750,
+			"price": 4000,
 			"slug": "sunset"
 		},
 		{
@@ -30,30 +30,8 @@
 			},
 			"itemdefid": 1003,
 			"name": "Puzzle",
-			"price": 400,
+			"price": 2500,
 			"slug": "puzzle"
-		},
-		{
-			"category": "recessive",
-			"file": "vpi_axanthic.png",
-			"genes": {
-				"VPI Axanthic": 2
-			},
-			"itemdefid": 1004,
-			"name": "VPI Axanthic",
-			"price": 350,
-			"slug": "vpi_axanthic"
-		},
-		{
-			"category": "recessive",
-			"file": "ultramel.png",
-			"genes": {
-				"Ultramel": 2
-			},
-			"itemdefid": 1005,
-			"name": "Ultramel",
-			"price": 325,
-			"slug": "ultramel"
 		},
 		{
 			"category": "recessive",
@@ -63,7 +41,7 @@
 			},
 			"itemdefid": 1006,
 			"name": "Desert Ghost",
-			"price": 300,
+			"price": 1500,
 			"slug": "desert_ghost"
 		},
 		{
@@ -74,8 +52,19 @@
 			},
 			"itemdefid": 1007,
 			"name": "Lavender Albino",
-			"price": 275,
+			"price": 1300,
 			"slug": "lavender_albino"
+		},
+		{
+			"category": "recessive",
+			"file": "ultramel.png",
+			"genes": {
+				"Ultramel": 2
+			},
+			"itemdefid": 1005,
+			"name": "Ultramel",
+			"price": 1200,
+			"slug": "ultramel"
 		},
 		{
 			"category": "recessive",
@@ -85,19 +74,19 @@
 			},
 			"itemdefid": 1008,
 			"name": "Piebald",
-			"price": 275,
+			"price": 1100,
 			"slug": "piebald"
 		},
 		{
 			"category": "recessive",
-			"file": "ghost.png",
+			"file": "vpi_axanthic.png",
 			"genes": {
-				"Ghost": 2
+				"VPI Axanthic": 2
 			},
-			"itemdefid": 1009,
-			"name": "Ghost",
-			"price": 250,
-			"slug": "ghost"
+			"itemdefid": 1004,
+			"name": "VPI Axanthic",
+			"price": 1000,
+			"slug": "vpi_axanthic"
 		},
 		{
 			"category": "recessive",
@@ -107,8 +96,19 @@
 			},
 			"itemdefid": 1010,
 			"name": "Clown",
-			"price": 250,
+			"price": 900,
 			"slug": "clown"
+		},
+		{
+			"category": "recessive",
+			"file": "hypo.png",
+			"genes": {
+				"Hypo": 2
+			},
+			"itemdefid": 1009,
+			"name": "Hypo",
+			"price": 600,
+			"slug": "hypo"
 		},
 		{
 			"category": "recessive",
@@ -118,19 +118,19 @@
 			},
 			"itemdefid": 1011,
 			"name": "Albino",
-			"price": 150,
+			"price": 400,
 			"slug": "albino"
 		},
 		{
 			"category": "incdom",
-			"file": "cinnamon.png",
+			"file": "super_cinnamon.png",
 			"genes": {
-				"Cinnamon": 1
+				"Cinnamon": 2
 			},
-			"itemdefid": 1012,
-			"name": "Cinnamon",
-			"price": 300,
-			"slug": "cinnamon"
+			"itemdefid": 1031,
+			"name": "Super Cinnamon",
+			"price": 900,
+			"slug": "super_cinnamon"
 		},
 		{
 			"category": "incdom",
@@ -140,19 +140,19 @@
 			},
 			"itemdefid": 1013,
 			"name": "Spider",
-			"price": 300,
+			"price": 500,
 			"slug": "spider"
 		},
 		{
 			"category": "incdom",
-			"file": "leopard.png",
+			"file": "cinnamon.png",
 			"genes": {
-				"Leopard": 1
+				"Cinnamon": 1
 			},
-			"itemdefid": 1014,
-			"name": "Leopard",
-			"price": 250,
-			"slug": "leopard"
+			"itemdefid": 1012,
+			"name": "Cinnamon",
+			"price": 450,
+			"slug": "cinnamon"
 		},
 		{
 			"category": "incdom",
@@ -162,8 +162,52 @@
 			},
 			"itemdefid": 1015,
 			"name": "GHI",
-			"price": 250,
+			"price": 400,
 			"slug": "ghi"
+		},
+		{
+			"category": "incdom",
+			"file": "leopard.png",
+			"genes": {
+				"Leopard": 1
+			},
+			"itemdefid": 1014,
+			"name": "Leopard",
+			"price": 350,
+			"slug": "leopard"
+		},
+		{
+			"category": "incdom",
+			"file": "calico.png",
+			"genes": {
+				"Calico": 1
+			},
+			"itemdefid": 1030,
+			"name": "Calico",
+			"price": 300,
+			"slug": "calico"
+		},
+		{
+			"category": "incdom",
+			"file": "lesser.png",
+			"genes": {
+				"Lesser": 1
+			},
+			"itemdefid": 1019,
+			"name": "Lesser",
+			"price": 275,
+			"slug": "lesser"
+		},
+		{
+			"category": "incdom",
+			"file": "orange_dream.png",
+			"genes": {
+				"Orange Dream": 1
+			},
+			"itemdefid": 1029,
+			"name": "Orange Dream",
+			"price": 250,
+			"slug": "orange_dream"
 		},
 		{
 			"category": "incdom",
@@ -173,7 +217,7 @@
 			},
 			"itemdefid": 1016,
 			"name": "Spotnose",
-			"price": 200,
+			"price": 250,
 			"slug": "spotnose"
 		},
 		{
@@ -184,8 +228,19 @@
 			},
 			"itemdefid": 1017,
 			"name": "Enchi",
-			"price": 200,
+			"price": 250,
 			"slug": "enchi"
+		},
+		{
+			"category": "incdom",
+			"file": "ivory.png",
+			"genes": {
+				"Yellow Belly": 2
+			},
+			"itemdefid": 1032,
+			"name": "Ivory",
+			"price": 240,
+			"slug": "ivory"
 		},
 		{
 			"category": "incdom",
@@ -195,19 +250,19 @@
 			},
 			"itemdefid": 1018,
 			"name": "Fire",
-			"price": 200,
+			"price": 225,
 			"slug": "fire"
 		},
 		{
 			"category": "incdom",
-			"file": "lesser.png",
+			"file": "super_pastel.png",
 			"genes": {
-				"Lesser": 1
+				"Pastel": 2
 			},
-			"itemdefid": 1019,
-			"name": "Lesser",
+			"itemdefid": 1033,
+			"name": "Super Pastel",
 			"price": 200,
-			"slug": "lesser"
+			"slug": "super_pastel"
 		},
 		{
 			"category": "incdom",
@@ -217,7 +272,7 @@
 			},
 			"itemdefid": 1020,
 			"name": "Pinstripe",
-			"price": 180,
+			"price": 200,
 			"slug": "pinstripe"
 		},
 		{
@@ -228,7 +283,7 @@
 			},
 			"itemdefid": 1021,
 			"name": "Banana",
-			"price": 180,
+			"price": 200,
 			"slug": "banana"
 		},
 		{
@@ -250,7 +305,7 @@
 			},
 			"itemdefid": 1023,
 			"name": "Yellow Belly",
-			"price": 100,
+			"price": 120,
 			"slug": "yellow_belly"
 		},
 		{
@@ -274,7 +329,7 @@
 			},
 			"itemdefid": 1025,
 			"name": "Pastel Ultramel Monsoon",
-			"price": 1625,
+			"price": 26950,
 			"slug": "pastel_ultramel_monsoon"
 		},
 		{
@@ -286,7 +341,7 @@
 			},
 			"itemdefid": 1026,
 			"name": "Sunset Ultramel",
-			"price": 1075,
+			"price": 9100,
 			"slug": "sunset_ultramel"
 		},
 		{
@@ -298,8 +353,20 @@
 			},
 			"itemdefid": 1027,
 			"name": "Pastel VPI Axanthic",
-			"price": 450,
+			"price": 1925,
 			"slug": "pastel_vpi_axanthic"
+		},
+		{
+			"category": "combo",
+			"file": "blue_eyed_leucistic.png",
+			"genes": {
+				"Lesser": 1,
+				"Mojave": 1
+			},
+			"itemdefid": 1034,
+			"name": "Blue Eyed Leucistic",
+			"price": 788,
+			"slug": "blue_eyed_leucistic"
 		},
 		{
 			"category": "normal",
